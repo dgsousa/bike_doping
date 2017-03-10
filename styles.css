@@ -1,0 +1,19 @@
+
+.scatter_plot {
+	width: 1200px;
+	margin: auto;
+}
+
+svg {
+	border: 1px solid black;
+}
+
+h3 {
+	color: white;
+	margin-bottom: -25px;
+}
+
+.tooltip {
+	text-align: center;
+	padding: 10px;
+}
